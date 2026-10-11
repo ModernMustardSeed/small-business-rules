@@ -1,0 +1,34 @@
+{
+  "name": "small-business-rules",
+  "disclaimer": "Informational, not legal advice. Laws change and courts interpret them; confirm with a lawyer licensed in the jurisdiction before relying on any rule here.",
+  "license": "CC-BY-4.0",
+  "attribution": "Modern Mustard Seed, small-business-rules, https://github.com/ModernMustardSeed/small-business-rules",
+  "datasets": [
+    {
+      "file": "data/call-desk/calling-hours.json",
+      "as_of": "2026-10-11",
+      "rules": 32,
+      "unverified": 9
+    },
+    {
+      "file": "data/call-desk/recording-consent.json",
+      "as_of": "2026-10-11",
+      "rules": 64
+    },
+    {
+      "file": "data/call-desk/ai-disclosure.json",
+      "as_of": "2026-10-11",
+      "rules": 29,
+      "unverified": 4
+    },
+    {
+      "file": "data/call-desk/regions.json",
+      "as_of": "2026-10-11"
+    },
+    {
+      "file": "data/voice-linter/rules.json",
+      "as_of": "2026-10-11",
+      "rules": 37
+    }
+  ]
+}
