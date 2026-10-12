@@ -66,6 +66,11 @@ The quoted statutory and regulatory text is public law and is quoted for referen
 
 This repository is informational and is not legal advice. It does not create an attorney-client relationship. Laws, regulations and their interpretation change, local rules and contracts can add requirements, and some rules turn on facts this data cannot know, such as prior consent or an established business relationship. The data is provided as is, without warranty of any kind, as the licenses state. Before you rely on any rule, confirm it with a lawyer licensed in the jurisdiction.
 
-## About
+## Built by Modern Mustard Seed
 
-Maintained by [Modern Mustard Seed](https://modernmustardseed.com), an AI product studio that builds websites, voice agents and software for small businesses, managed for you, end to end.
+Maintained by [Modern Mustard Seed](https://modernmustardseed.com), an AI studio in Kalispell, Montana that builds websites, AI voice agents and custom software for small businesses, managed for you, end to end.
+
+- [Call Desk docs](https://mcp.modernmustardseed.com/docs/call-desk): the connector that answers from the calling hours, consent and disclosure rules here.
+- [Voice Agent Linter docs](https://mcp.modernmustardseed.com/docs/voice-linter): the connector that checks a voice agent against the linter rules here.
+- [AI voice agents we build and run](https://modernmustardseed.com/voice-agents)
+- [Every connector we have built for Claude](https://modernmustardseed.com/built-for-claude)
